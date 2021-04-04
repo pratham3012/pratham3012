@@ -43,6 +43,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://logodownload.org/wp-content/uploads/2019/10/photoshop-logo-0.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code>
+<code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png"></code>
 
 
 
@@ -53,10 +55,7 @@
 <a href="https://github.com/pratham3012">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratham3012&show_icons=true&theme=light&line_height=27" alt="Pratham's Github stats"/>
 </a>
-<a href="https://github.com/pratham3012/Stock-Price-Prediction-Sentiment-Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham3012&repo=StockPricePredictionSentimentAnalysis=light" />
 
-</a>
 
 <div align="center">
 
