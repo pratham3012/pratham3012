@@ -24,7 +24,7 @@
 
 
 
-- 🔭 I’m currently working on [Stock Market Prediction supported by Sentiment Analysis](https://github.com/pratham3012/Stock-Price-Prediction-Sentiment-Analysis).
+- 🔭 I’m currently working on [Stock Market Prediction Supported By Sentiment Analysis](https://github.com/pratham3012/Stock-Price-Prediction-Sentiment-Analysis).
 - 🌱 I’m currently learning more about Machine Learning.
 - 💬 Ask me about Android or any tech related stuff.
 - 📫 How to reach me: [Twitter - @WanmodePratham](https://twitter.com/WanmodePratham) , [WhatsApp - Pratham Wanmode](https://wa.link/0qag4r)
