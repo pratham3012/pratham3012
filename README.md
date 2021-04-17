@@ -45,7 +45,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png"></code>
-<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fpython-logo&psig=AOvVaw114oHSt8nrE_RwCLFbIihi&ust=1618720167455000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjEnNe4hPACFQAAAAAdAAAAABAe"></code>
+<code><img height="20" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png"></code>
 
 
 
