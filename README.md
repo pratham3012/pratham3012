@@ -38,11 +38,6 @@
 [![GitHub pratham3012](https://img.shields.io/github/followers/pratham3012?label=follow&style=social)](https://github.com/pratham3012)
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0a07079a-08b1-4410-878a-81029bc5ba10" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-
-
-
 
 **Languages and Tools:**  
 
