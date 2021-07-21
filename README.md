@@ -36,13 +36,18 @@
 [![Twitter: WanmodePratham](https://img.shields.io/twitter/follow/WanmodePratham?style=social)](https://twitter.com/WanmodePratham)
 [![Linkedin: Pratham Wanmode](https://img.shields.io/badge/-pratham3012-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratham-wanmode-3096bb158/)](https://www.linkedin.com/in/pratham-wanmode-3096bb158/)
 [![GitHub pratham3012](https://img.shields.io/github/followers/pratham3012?label=follow&style=social)](https://github.com/pratham3012)
-<br/>
+
+
 **Badges & Certifications**  
 <a href="https://www.credly.com/badges/0a07079a-08b1-4410-878a-81029bc5ba10/public_url">
   <img align="left" alt="Machine Learning Python - IBM" width="100px" src="https://images.credly.com/size/110x110/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png" />
 </a>
 
 <br/>
+<br/>
+
+
+
 **Languages and Tools:**  
 
 
