@@ -29,7 +29,6 @@
 - 🌱 I’m currently learning more about Machine Learning.
 - 💬 Ask me about Android or any tech related stuff.
 - 📫 How to reach me: [Twitter - @WanmodePratham](https://twitter.com/WanmodePratham) , [WhatsApp - Pratham Wanmode](https://wa.link/0qag4r)
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours surfing the internet.
 - 💻 Founded [MIB Technologies](https://mibtechnologies.in) - App and Website Development Company 
 
