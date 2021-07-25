@@ -17,12 +17,7 @@
 <a href="https://www.facebook.com/pratham.wanmode.7/">
   <img align="left" alt="Pratham's Facebook" width="22px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19754.png" />
 </a>
-
-
 <br/>
-<br/>
-
-
 
 - 🔭 I’m currently working on [Electron Beam Radiation Processing Facility - RRCAT(DAE),Indore](https://github.com/EBRPF/arpf).
 - 💻 Summer Trainee at [Raja Ramanna Centre For Advanced Technology, Indore](https://www.rrcat.gov.in/)
