@@ -1,21 +1,21 @@
 # Hola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Pratham Wanmode
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham3012&label=Views&color=blue&style=plastic" alt="pratham3012" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=pratham3012&label=Views&color=blue&style=plastic" alt="pratham3012" /> </p>
 
 <a href="https://twitter.com/WanmodePratham">
-  <img align="left" alt="Pratham's Twitter" width="22px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" />
+  <img align="centre" alt="Pratham's Twitter" width="22px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" />
 </a>
 <a href="https://www.linkedin.com/in/pratham-wanmode-3096bb158/">
-  <img align="left" alt="Pratham's Linkdein" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img align="centre" alt="Pratham's Linkdein" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <a href="https://github.com/pratham3012">
-  <img align="left" alt="Pratham's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="centre" alt="Pratham's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/pratham_wanmode/">
-  <img align="left" alt="Pratham's Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
+  <img align="centre" alt="Pratham's Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
 </a>
 <a href="https://www.facebook.com/pratham.wanmode.7/">
-  <img align="left" alt="Pratham's Facebook" width="22px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19754.png" />
+  <img align="centre" alt="Pratham's Facebook" width="22px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19754.png" />
 </a>
 <br/>
 
