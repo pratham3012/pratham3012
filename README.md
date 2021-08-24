@@ -25,7 +25,6 @@
 - 💬 Ask me about Android or any tech related stuff.
 - 📫 How to reach me: [Twitter - @WanmodePratham](https://twitter.com/WanmodePratham) , [WhatsApp - Pratham Wanmode](https://wa.link/0qag4r)
 - ⚡ Fun fact: I spend almost 12 hours surfing the internet.
-- 💻 Founded [MIB Technologies](https://mibtechnologies.in) - App and Website Development Company 
 
 [![Twitter: WanmodePratham](https://img.shields.io/twitter/follow/WanmodePratham?style=social)](https://twitter.com/WanmodePratham)
 [![Linkedin: Pratham Wanmode](https://img.shields.io/badge/-pratham3012-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratham-wanmode-3096bb158/)](https://www.linkedin.com/in/pratham-wanmode-3096bb158/)
