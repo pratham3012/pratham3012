@@ -60,6 +60,12 @@
 
 <div align="center">
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniketartani&theme=tokyonight&count_private=true)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aniketartani&theme=github&count_private=true)  
+<div align="center">  
+  
+  
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
