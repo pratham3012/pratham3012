@@ -48,6 +48,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png"></code>
 <code><img height="20" src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"></code>
+<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AISO_C%252B%252B_Logo.svg&psig=AOvVaw3vUJkyhsaCfKlnjazSBwUI&ust=1646076129234000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDWxMnNoPYCFQAAAAAdAAAAABAD"></code>
 
 
 
