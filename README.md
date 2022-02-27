@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on [Electron Beam Radiation Processing Facility - RRCAT(DAE),Indore](https://github.com/EBRPF/arpf).
 - 💻 Summer Trainee at [Raja Ramanna Centre For Advanced Technology, Indore](https://www.rrcat.gov.in/)
-- 🌱 I’m currently learning more about Machine Learning.
+- 🌱 I’m currently learning more about Flask Framework.
 - 💬 Ask me about Machine Learning or any tech related stuff.
 - 📫 How to reach me: [Twitter - @WanmodePratham](https://twitter.com/WanmodePratham) , [WhatsApp - Pratham Wanmode](https://wa.link/0qag4r)
 - ⚡ Fun fact: I spend almost 12 hours surfing the internet.
