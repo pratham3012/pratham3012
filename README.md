@@ -37,6 +37,10 @@
   <img align="centre" alt="Machine Learning with Python - IBM" width="100px" src="https://images.credly.com/size/110x110/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png" />
 </a>
 
+<a href="https://www.credly.com/badges/0a07079a-08b1-4410-878a-81029bc5ba10/public_url">
+  <img align="centre" alt="AWS Academy Graduate - AWS Academy Cloud Foundations" width="100px" src="https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" />
+</a>
+
 **Languages and Tools:**  
 
 
