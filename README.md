@@ -1,7 +1,10 @@
 👋 Hi there, I'm Pratham Wanmode
+
+
 <a href="https://github.com/pratham3012">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratham3012&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
+
 <a href="https://github.com/pratham3012">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham3012&layout=compact&theme=dracula"/>
 </a>
