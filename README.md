@@ -20,14 +20,7 @@ Frameworks/Libraries: React Native, Airflow, PySpark
 
 Platforms & Datastores: AWS, Kubernetes, PostgreSQL, Aerospike, Redis, ElasticSearch
 
-Developer Tools: Git, Xcode, Docker, GoCD, Unleash, Clevertap, Grafana, Jager
-
-🌐 Let's Connect
-📸 Instagram – Budget Travel & Hostel Life
-
-🧑‍💼 LinkedIn
-
-💻 Portfolio (if applicable)
+Developer Tools: Git, Xcode, Docker, GoCD, Unleash, Clevertap, Grafana, Jaeger
 
 ⚡ Fun Fact
 I love building user-friendly features by day and exploring new places by road in my VW Taigun by night (and weekends)!
