@@ -9,9 +9,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham3012&layout=compact&theme=dracula"/>
 </a>
 
-💻 Software Developer | 🚀 Tech Consultant | 🧭 Travel Content Creator
+💻 Software Developer
 
-I'm an IT professional working with a reputed Indian bank, specializing in full-stack development and digital banking solutions. My base is officially Bangalore, but I work remotely from Indore and travel across India — often turning that journey into creative content and useful insights for others.
+I'm an IT professional working IDFC First Bank specializing in full-stack development and digital banking solutions. My base is officially Bangalore, but I work remotely from Indore and travel across India — often turning that journey into creative content and useful insights for others.
 
 🛠️ Tech Stack
 Languages: JavaScript, Python, Go, SQL
